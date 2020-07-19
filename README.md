@@ -33,19 +33,12 @@ Hi, I'm Abhishek Pandey, a student and passionate about data science from New De
 
 ### Top repositories
 
-<p align="center">
-  
-<a href="https://github.com/aabhipandey000/IPL-First-Innings-Score-Prediction---Deployment">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=aabhipandey000&repo=IPL-First-Innings-Score-Prediction
-&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-
 </p>
 
 <p align="center">
   
-<a href="https://github.com/kishan0725/The-Movie-Cinema">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kishan0725&repo=The-Movie-Cinema&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<a href="https://github.com/aabhipandey000/car_price_prediction">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=aabhipandey000&repo=car_price_prediction&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
 </p>
@@ -54,16 +47,16 @@ Hi, I'm Abhishek Pandey, a student and passionate about data science from New De
 
 <p align="center">
   
-<a href="https://github.com/kishan0725/Hospital-Management-System">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kishan0725&repo=Hospital-Management-System&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<a href="https://github.com/aabhipandey000/Movie-Recommendation-System">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=aabhipandey000&repo=Movie-Recommendation-System&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
 </p>
 
 <p align="center">
   
-<a href="https://github.com/kishan0725/COVID19-Tracker">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kishan0725&repo=COVID19-Tracker&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<a href="https://github.com/aabhipandey000/Flight-Price-Prediction">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=aabhipandey000&repo=Flight-Price-Prediction&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
 </p>
