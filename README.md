@@ -31,3 +31,40 @@ Hi, I'm Abhishek Pandey, a student and passionate about data science from New De
 ### Follow me
 [![Linkedin Badge](https://img.shields.io/badge/-Abhishek%20Pandey-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-pandey-259657113/)](https://www.linkedin.com/in/abhishek-pandey-259657113/) [![Instagram Badge](https://img.shields.io/badge/-@abhii_pandey1998-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/abhii_pandey1998)](https://www.instagram.com/abhii_pandey1998) [![Twitter Badge](https://img.shields.io/badge/-@aabhipandey000-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aabhipandey000)](https://twitter.com/aabhipandey000)[![GitHub Badge](https://img.shields.io/badge/-@aabhipandey000-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/aabhipandey000)](https://github.com/aabhipandey000) [![Gmail Badge](https://img.shields.io/badge/-@aabhipandey000-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:aabhipandey000@gmail.com)](mailto:aabhipandey000@gmail.com)
 
+### Top repositories
+
+<p align="center">
+  
+<a href="https://github.com/aabhipandey000/IPL-First-Innings-Score-Prediction---Deployment">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=aabhipandey000&repo=IPL-First-Innings-Score-Prediction
+&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
+</p>
+
+<p align="center">
+  
+<a href="https://github.com/kishan0725/The-Movie-Cinema">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kishan0725&repo=The-Movie-Cinema&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
+</p>
+
+<br />
+
+<p align="center">
+  
+<a href="https://github.com/kishan0725/Hospital-Management-System">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kishan0725&repo=Hospital-Management-System&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
+</p>
+
+<p align="center">
+  
+<a href="https://github.com/kishan0725/COVID19-Tracker">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kishan0725&repo=COVID19-Tracker&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
+</p>
+  
