@@ -27,3 +27,8 @@ Hi, I'm Abhishek Pandey, a student and passionate about data science from New De
 <p align="center">
 <a href="https://github.com/aabhipandey000"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=aabhipandey000&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Abhishek's GitHub Stats"></a>
 </p> 
+
+### Follow me
+
+[![Linkedin Badge](https://img.shields.io/badge/-Abhishek%Pandey-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-pandey-259657113/)](https://www.linkedin.com/in/abhishek-pandey-259657113/) [![Instagram Badge](https://img.shields.io/badge/-@kishan__07__25-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/kishan_07_25)](https://www.instagram.com/kishan_07_25) [![Twitter Badge](https://img.shields.io/badge/-@kishan0725-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kishan0725)](https://twitter.com/kishan0725) [![Quora Badge](https://img.shields.io/badge/-@Kishan--175-b92b27?style=flat-circle&labelColor=b92b27&logo=quora&logoColor=white&link=https://www.quora.com/profile/Kishan-175)](https://www.quora.com/profile/Kishan-175) [![GitHub Badge](https://img.shields.io/badge/-@kishan0725-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/kishan0725)](https://github.com/kishan0725) [![Gmail Badge](https://img.shields.io/badge/-@aabhipandey000-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:aabhipandey000@gmail.com)](mailto:aabhipandey000@gmail.com)
+
